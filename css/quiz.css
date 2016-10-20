@@ -5,7 +5,6 @@ html, body, ul, ol {
 	font-size: 1em;
 }
 
-
 h1, h2, h3 {
 	color: black;
 	text-align: center;
@@ -54,11 +53,10 @@ footer {
 	box-shadow: -1px -1px 10px 1px;
 	display: block;
 	position: fixed;
-   left:0px;
-   bottom:0px;
-   width:100%;
+  left:0px;
+  bottom:0px;
+  width:100%;
 }
-
 
 /* ID SELECTORS */
 
@@ -80,8 +78,6 @@ footer {
 	height: 30px;
 }
 
-
-
 /* CLASS SELECTORS */
 
 .smallDiv {
@@ -90,18 +86,13 @@ footer {
 	margin: auto 25px;
 	padding: 10px;
 	background-color: lightblue;
-
 	border: 2px solid rgb(123, 166, 180);
 	box-shadow: 1px 1px 10px 1px;
 	display: inline-block;
-/*overflow-x: hidden;
-	overflow-y: scroll;
-*/
 
 }
 
 .favorites {
-	clear:both;
 	margin: 10px auto;
 }
 
